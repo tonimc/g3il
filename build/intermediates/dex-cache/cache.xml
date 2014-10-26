@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/intermediates/pre-dexed/debug/core-1.0-8cdf7d62da47d80b9aa1498aa8c8fc3f6b8f7b0b.jar"
+        jar="/home/toni/almacen-ssd/dev/android/projects/g3il/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="71afc53fd3bd09c6bd243f02fbdffc5e13355200"/>
+    <item
+        dex="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/intermediates/pre-dexed/debug/gdx-1.0.1-731c5d9a1c8ff7775f2244bbddd01ce4e696477c.jar"
+        jar="/home/toni/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.0.1/ebd13341e1f7bf0139baf26aaef195a00677d7c3/gdx-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ebd13341e1f7bf0139baf26aaef195a00677d7c3"/>
+    <item
+        dex="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.0.1-8c5acdbc05f6eadf89a30d353f486937293465aa.jar"
+        jar="/home/toni/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.0.1/e72403f6baff51e9a638939dd2c8a5e9a7f7dc18/gdx-backend-android-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e72403f6baff51e9a638939dd2c8a5e9a7f7dc18"/>
+    <item
+        dex="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.0.1-3a9da6b95f7f3fe0f12560da2c5cad6ec43a535c.jar"
+        jar="/home/toni/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.0.1/78a107753410e8bb11216b654489996bf573b163/gdx-box2d-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="78a107753410e8bb11216b654489996bf573b163"/>
+
+</pre-dex-items>

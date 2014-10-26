@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets" >
+            <file
+                name="failure.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/failure.wav" />
+            <file
+                name="win.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/win.wav" />
+            <file
+                name="black.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/black.png" />
+            <file
+                name="white.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/white.png" />
+            <file
+                name="board.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/board.png" />
+            <file
+                name="music.mp3"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/music.mp3" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/src/debug/assets" />
+    </dataSet>
+
+</merger>

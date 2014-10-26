@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets" >
+            <file
+                name="fonts/arial.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/fonts/arial.fnt" />
+            <file
+                name="fonts/arial.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/fonts/arial.png" />
+            <file
+                name="data/car.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/car.obj" />
+            <file
+                name="data/DroidSansJapanese.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/DroidSansJapanese.ttf" />
+            <file
+                name="data/animation.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/animation.png" />
+            <file
+                name="data/Textures1.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/Textures1.png" />
+            <file
+                name="data/particle-star.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/particle-star.png" />
+            <file
+                name="data/russkij.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/russkij.ttf" />
+            <file
+                name="data/bubblepop.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/bubblepop.ogg" />
+            <file
+                name="data/scene.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/scene.obj" />
+            <file
+                name="data/verdana39distancefield.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/verdana39distancefield.fnt" />
+            <file
+                name="data/testdot.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/testdot.png" />
+            <file
+                name="data/uiskin.json"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/uiskin.json" />
+            <file
+                name="data/issue_pack"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/issue_pack" />
+            <file
+                name="data/i18n/message2_en.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message2_en.properties" />
+            <file
+                name="data/i18n/message2_it.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message2_it.properties" />
+            <file
+                name="data/i18n/message1.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message1.properties" />
+            <file
+                name="data/i18n/message1_it.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message1_it.properties" />
+            <file
+                name="data/i18n/message2.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message2.properties" />
+            <file
+                name="data/i18n/message1_en.properties"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/i18n/message1_en.properties" />
+            <file
+                name="data/multipagefont1.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/multipagefont1.png" />
+            <file
+                name="data/stones.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/stones.jpg" />
+            <file
+                name="data/layers.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/layers.png" />
+            <file
+                name="data/jump.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/jump.png" />
+            <file
+                name="data/sphere.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/sphere.obj" />
+            <file
+                name="data/jump.txt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/jump.txt" />
+            <file
+                name="data/tree.psh"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tree.psh" />
+            <file
+                name="data/particle.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/particle.png" />
+            <file
+                name="data/shaders/distancefield.frag"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/distancefield.frag" />
+            <file
+                name="data/shaders/batch.vert"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/batch.vert" />
+            <file
+                name="data/shaders/depthtocolor.frag"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/depthtocolor.frag" />
+            <file
+                name="data/shaders/projtex-frag.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/projtex-frag.glsl" />
+            <file
+                name="data/shaders/flat-frag.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/flat-frag.glsl" />
+            <file
+                name="data/shaders/flattex-vert.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/flattex-vert.glsl" />
+            <file
+                name="data/shaders/flat-vert.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/flat-vert.glsl" />
+            <file
+                name="data/shaders/shadowmap-frag.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shadowmap-frag.glsl" />
+            <file
+                name="data/shaders/projtex-vert.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/projtex-vert.glsl" />
+            <file
+                name="data/shaders/shader-fs.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shader-fs.glsl" />
+            <file
+                name="data/shaders/distancefield.vert"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/distancefield.vert" />
+            <file
+                name="data/shaders/batch.frag"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/batch.frag" />
+            <file
+                name="data/shaders/default.frag"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/default.frag" />
+            <file
+                name="data/shaders/shadowgen-vert.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shadowgen-vert.glsl" />
+            <file
+                name="data/shaders/convolution.frag"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/convolution.frag" />
+            <file
+                name="data/shaders/flattex-frag.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/flattex-frag.glsl" />
+            <file
+                name="data/shaders/default.vert"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/default.vert" />
+            <file
+                name="data/shaders/shadowgen-frag.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shadowgen-frag.glsl" />
+            <file
+                name="data/shaders/shader-vs.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shader-vs.glsl" />
+            <file
+                name="data/shaders/shadowmap-vert.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shaders/shadowmap-vert.glsl" />
+            <file
+                name="data/arial.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/arial.ttf" />
+            <file
+                name="data/DroidSerif-Bold.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/DroidSerif-Bold.ttf" />
+            <file
+                name="data/tiles.txt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tiles.txt" />
+            <file
+                name="data/bobrgb888-32x32.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/bobrgb888-32x32.png" />
+            <file
+                name="data/planet_heavyclouds.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/planet_heavyclouds.jpg" />
+            <file
+                name="data/black_marked_0.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/black_marked_0.png" />
+            <file
+                name="data/8.12.mp3"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/8.12.mp3" />
+            <file
+                name="data/shotgun.mp3"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shotgun.mp3" />
+            <file
+                name="data/test.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test.png" />
+            <file
+                name="data/arial-15.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/arial-15.fnt" />
+            <file
+                name="data/walkanim.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/walkanim.png" />
+            <file
+                name="data/shotgun.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shotgun.ogg" />
+            <file
+                name="data/alpha.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/alpha.png" />
+            <file
+                name="data/cube.mtl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/cube.mtl" />
+            <file
+                name="data/arial-italic.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/arial-italic.ttf" />
+            <file
+                name="data/default_00.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/default_00.png" />
+            <file
+                name="data/test3.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test3.png" />
+            <file
+                name="data/uiskin.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/uiskin.png" />
+            <file
+                name="data/gwttestparams.txt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/gwttestparams.txt" />
+            <file
+                name="data/test4.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test4.png" />
+            <file
+                name="data/shiptexture.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shiptexture.png" />
+            <file
+                name="data/multipagefont.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/multipagefont.fnt" />
+            <file
+                name="data/testbar.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/testbar.png" />
+            <file
+                name="data/test.p"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test.p" />
+            <file
+                name="data/heightmap.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/heightmap.png" />
+            <file
+                name="data/sell_buy_item.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/sell_buy_item.wav" />
+            <file
+                name="data/unbom.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/unbom.ttf" />
+            <file
+                name="data/resource1.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/resource1.jpg" />
+            <file
+                name="data/badlogicsmall.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/badlogicsmall.jpg" />
+            <file
+                name="data/DroidSerif-Regular.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/DroidSerif-Regular.ttf" />
+            <file
+                name="data/isotile.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/isotile.png" />
+            <file
+                name="data/cloudconnected.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/cloudconnected.ogg" />
+            <file
+                name="data/test2_notwork.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test2_notwork.wav" />
+            <file
+                name="data/verdana39.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/verdana39.png" />
+            <file
+                name="data/bobargb8888-32x32.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/bobargb8888-32x32.png" />
+            <file
+                name="data/g3d/space.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/space.jpg" />
+            <file
+                name="data/g3d/btscene1.bullet"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/btscene1.bullet" />
+            <file
+                name="data/g3d/shaders/cubemap.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/cubemap.glsl" />
+            <file
+                name="data/g3d/shaders/gouraud.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/gouraud.glsl" />
+            <file
+                name="data/g3d/shaders/fur.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/fur.glsl" />
+            <file
+                name="data/g3d/shaders/shadowmap.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/shadowmap.glsl" />
+            <file
+                name="data/g3d/shaders/normal.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/normal.glsl" />
+            <file
+                name="data/g3d/shaders/u_uniforms.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/u_uniforms.glsl" />
+            <file
+                name="data/g3d/shaders/reflect.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/reflect.glsl" />
+            <file
+                name="data/g3d/shaders/phong.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/phong.glsl" />
+            <file
+                name="data/g3d/shaders/depth.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/depth.glsl" />
+            <file
+                name="data/g3d/shaders/g_attributes.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/g_attributes.glsl" />
+            <file
+                name="data/g3d/shaders/common.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/common.glsl" />
+            <file
+                name="data/g3d/shaders/test.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/test.glsl" />
+            <file
+                name="data/g3d/shaders/light_gouraud.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/light_gouraud.glsl" />
+            <file
+                name="data/g3d/shaders/skinning.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/skinning.glsl" />
+            <file
+                name="data/g3d/shaders/a_attributes.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/a_attributes.glsl" />
+            <file
+                name="data/g3d/shaders/lights.glsl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shaders/lights.glsl" />
+            <file
+                name="data/g3d/teapot.g3db"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/teapot.g3db" />
+            <file
+                name="data/g3d/ship.mtl"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/ship.mtl" />
+            <file
+                name="data/g3d/materials/cloth01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth01.g3dj" />
+            <file
+                name="data/g3d/materials/grass_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/grass_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/wood_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/brick_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick_normal_01.png" />
+            <file
+                name="data/g3d/materials/leather_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/leather_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/badlogic_normal.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/badlogic_normal.g3dj" />
+            <file
+                name="data/g3d/materials/cloth02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth02.g3dj" />
+            <file
+                name="data/g3d/materials/chesterfield_diffuse.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/chesterfield_diffuse.png" />
+            <file
+                name="data/g3d/materials/metal_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/metal_normal_02.png" />
+            <file
+                name="data/g3d/materials/skin_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/skin_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/moon01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/moon01.g3dj" />
+            <file
+                name="data/g3d/materials/wood02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood02.g3dj" />
+            <file
+                name="data/g3d/materials/stone_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/mirror01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/mirror01.g3dj" />
+            <file
+                name="data/g3d/materials/moon_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/moon_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/cloth_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth_normal_02.png" />
+            <file
+                name="data/g3d/materials/badlogic_normal.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/badlogic_normal.png" />
+            <file
+                name="data/g3d/materials/wood_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood_normal_01.png" />
+            <file
+                name="data/g3d/materials/brick_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/metal01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/metal01.g3dj" />
+            <file
+                name="data/g3d/materials/stone_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/brick01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick01.g3dj" />
+            <file
+                name="data/g3d/materials/stone_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone_normal_01.png" />
+            <file
+                name="data/g3d/materials/diffuse_green.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/diffuse_green.g3dj" />
+            <file
+                name="data/g3d/materials/moon_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/moon_normal_01.png" />
+            <file
+                name="data/g3d/materials/brick03.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick03.g3dj" />
+            <file
+                name="data/g3d/materials/wood_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood_normal_02.png" />
+            <file
+                name="data/g3d/materials/plastic01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/plastic01.g3dj" />
+            <file
+                name="data/g3d/materials/elephant_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/elephant_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant_normal_01.png" />
+            <file
+                name="data/g3d/materials/chesterfield.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/chesterfield.g3dj" />
+            <file
+                name="data/g3d/materials/brick_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/mirror02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/mirror02.g3dj" />
+            <file
+                name="data/g3d/materials/jitter_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/jitter_normal_01.png" />
+            <file
+                name="data/g3d/materials/wood_diffuse_03.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood_diffuse_03.png" />
+            <file
+                name="data/g3d/materials/wood01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood01.g3dj" />
+            <file
+                name="data/g3d/materials/stone02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone02.g3dj" />
+            <file
+                name="data/g3d/materials/leather_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/leather_normal_01.png" />
+            <file
+                name="data/g3d/materials/brickRound_diffuse.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brickRound_diffuse.png" />
+            <file
+                name="data/g3d/materials/grass01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/grass01.g3dj" />
+            <file
+                name="data/g3d/materials/brick_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick_normal_02.png" />
+            <file
+                name="data/g3d/materials/stone_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone_normal_02.png" />
+            <file
+                name="data/g3d/materials/brickRound_normal.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brickRound_normal.png" />
+            <file
+                name="data/g3d/materials/wood_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/wood_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/cloth_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth_normal_01.png" />
+            <file
+                name="data/g3d/materials/elephant01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant01.g3dj" />
+            <file
+                name="data/g3d/materials/fur_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/fur_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/fur01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/fur01.g3dj" />
+            <file
+                name="data/g3d/materials/cloth_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/plastic_normal_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/plastic_normal_01.png" />
+            <file
+                name="data/g3d/materials/chesterfield_normal.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/chesterfield_normal.png" />
+            <file
+                name="data/g3d/materials/cloth_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/cloth_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/stone01.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/stone01.g3dj" />
+            <file
+                name="data/g3d/materials/skin_diffuse_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/skin_diffuse_02.png" />
+            <file
+                name="data/g3d/materials/elephant02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant02.g3dj" />
+            <file
+                name="data/g3d/materials/chesterfield_specular.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/chesterfield_specular.png" />
+            <file
+                name="data/g3d/materials/metal_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/metal_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/elephant_normal_02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant_normal_02.png" />
+            <file
+                name="data/g3d/materials/leather_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/leather_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/elephant_diffuse_01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/elephant_diffuse_01.png" />
+            <file
+                name="data/g3d/materials/brick02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/brick02.g3dj" />
+            <file
+                name="data/g3d/materials/metal02.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/materials/metal02.g3dj" />
+            <file
+                name="data/g3d/invaders.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/invaders.g3dj" />
+            <file
+                name="data/g3d/head_color.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/head_color.png" />
+            <file
+                name="data/g3d/knight.g3db"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/knight.g3db" />
+            <file
+                name="data/g3d/cube.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/cube.g3dj" />
+            <file
+                name="data/g3d/btscene1.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/btscene1.g3dj" />
+            <file
+                name="data/g3d/invader.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/invader.png" />
+            <file
+                name="data/g3d/concrete.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/concrete.png" />
+            <file
+                name="data/g3d/shapes/sphere.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shapes/sphere.g3dj" />
+            <file
+                name="data/g3d/shapes/torus.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shapes/torus.g3dj" />
+            <file
+                name="data/g3d/shapes/teapot.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shapes/teapot.g3dj" />
+            <file
+                name="data/g3d/shapes/cube_1.0x1.0.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shapes/cube_1.0x1.0.g3dj" />
+            <file
+                name="data/g3d/shapes/cube_1.5x1.5.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/shapes/cube_1.5x1.5.g3dj" />
+            <file
+                name="data/g3d/knight.g3dj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/knight.g3dj" />
+            <file
+                name="data/g3d/checkboard.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/checkboard.png" />
+            <file
+                name="data/g3d/environment/environment_01_PY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_PY.png" />
+            <file
+                name="data/g3d/environment/environment_02_NX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_NX.png" />
+            <file
+                name="data/g3d/environment/environment_02_NZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_NZ.png" />
+            <file
+                name="data/g3d/environment/environment_01_NX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_NX.png" />
+            <file
+                name="data/g3d/environment/debug_PX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_PX.png" />
+            <file
+                name="data/g3d/environment/environment_02_PZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_PZ.png" />
+            <file
+                name="data/g3d/environment/environment_01_NZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_NZ.png" />
+            <file
+                name="data/g3d/environment/environment_01_NY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_NY.png" />
+            <file
+                name="data/g3d/environment/environment_02_PY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_PY.png" />
+            <file
+                name="data/g3d/environment/debug_NZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_NZ.png" />
+            <file
+                name="data/g3d/environment/debug_PY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_PY.png" />
+            <file
+                name="data/g3d/environment/debug_NY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_NY.png" />
+            <file
+                name="data/g3d/environment/environment_02_NY.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_NY.png" />
+            <file
+                name="data/g3d/environment/environment_02_PX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_02_PX.png" />
+            <file
+                name="data/g3d/environment/debug_PZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_PZ.png" />
+            <file
+                name="data/g3d/environment/environment_01_PX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_PX.png" />
+            <file
+                name="data/g3d/environment/environment_01_PZ.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/environment_01_PZ.png" />
+            <file
+                name="data/g3d/environment/debug_NX.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/environment/debug_NX.png" />
+            <file
+                name="data/g3d/skydome.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/skydome.png" />
+            <file
+                name="data/g3d/ship.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/ship.png" />
+            <file
+                name="data/g3d/tiles.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/tiles.png" />
+            <file
+                name="data/g3d/Knight.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/Knight.png" />
+            <file
+                name="data/g3d/ship.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/ship.obj" />
+            <file
+                name="data/g3d/skydome.g3db"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/skydome.g3db" />
+            <file
+                name="data/g3d/head.g3db"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g3d/head.g3db" />
+            <file
+                name="data/g2d/progressive-libgdx.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/g2d/progressive-libgdx.jpg" />
+            <file
+                name="data/utf-font.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/utf-font.png" />
+            <file
+                name="data/wheel.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/wheel.png" />
+            <file
+                name="data/utf-font.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/utf-font.fnt" />
+            <file
+                name="data/default.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/default.fnt" />
+            <file
+                name="data/issue/bark.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/issue/bark.png" />
+            <file
+                name="data/issue/funky_palm_tree.g3dj.txt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/issue/funky_palm_tree.g3dj.txt" />
+            <file
+                name="data/issue/leaf.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/issue/leaf.png" />
+            <file
+                name="data/test.etc1"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/test.etc1" />
+            <file
+                name="data/walk1.md5anim"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/walk1.md5anim" />
+            <file
+                name="data/multipagefont2.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/multipagefont2.png" />
+            <file
+                name="data/verdana39.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/verdana39.fnt" />
+            <file
+                name="data/pack"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/pack" />
+            <file
+                name="data/garuda.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/garuda.ttf" />
+            <file
+                name="data/ui.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/ui.png" />
+            <file
+                name="data/tic_long.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tic_long.ogg" />
+            <file
+                name="data/planet_earth.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/planet_earth.png" />
+            <file
+                name="data/tile.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tile.png" />
+            <file
+                name="data/egg.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/egg.png" />
+            <file
+                name="data/testpack"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/testpack" />
+            <file
+                name="data/group-debug.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/group-debug.png" />
+            <file
+                name="data/ps-bobrgb888-32x32.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/ps-bobrgb888-32x32.png" />
+            <file
+                name="data/badlogic.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/badlogic.jpg" />
+            <file
+                name="data/debug.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/debug.png" />
+            <file
+                name="data/font.fnt"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/font.fnt" />
+            <file
+                name="data/particle-fire.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/particle-fire.png" />
+            <file
+                name="data/border_corner_a.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/border_corner_a.png" />
+            <file
+                name="data/zfat.md5mesh"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/zfat.md5mesh" />
+            <file
+                name="data/cube.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/cube.obj" />
+            <file
+                name="data/43kJgl.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/43kJgl.jpg" />
+            <file
+                name="data/DroidSerif-Italic.ttf"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/DroidSerif-Italic.ttf" />
+            <file
+                name="data/tiles.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tiles.png" />
+            <file
+                name="data/chirp.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/chirp.wav" />
+            <file
+                name="data/font.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/font.png" />
+            <file
+                name="data/uiskin.atlas"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/uiskin.atlas" />
+            <file
+                name="data/stone2.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/stone2.png" />
+            <file
+                name="data/rgb.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/rgb.png" />
+            <file
+                name="data/engine-2.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/engine-2.ogg" />
+            <file
+                name="data/chirp.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/chirp.ogg" />
+            <file
+                name="data/particle-cloud.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/particle-cloud.png" />
+            <file
+                name="data/playback.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/playback.png" />
+            <file
+                name="data/verdana39distancefield.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/verdana39distancefield.png" />
+            <file
+                name="data/shotgun.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/shotgun.wav" />
+            <file
+                name="data/pack1.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/pack1.png" />
+            <file
+                name="data/wheel.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/wheel.obj" />
+            <file
+                name="data/scene2.obj"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/scene2.obj" />
+            <file
+                name="data/tic.ogg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tic.ogg" />
+            <file
+                name="data/default.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/default.png" />
+            <file
+                name="data/maps/tide/TileSheets/Background03.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tide/TileSheets/Background03.png" />
+            <file
+                name="data/maps/tide/TileSheets/TileSheet01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tide/TileSheets/TileSheet01.png" />
+            <file
+                name="data/maps/tide/TileSheets/Background02.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tide/TileSheets/Background02.png" />
+            <file
+                name="data/maps/tide/TileSheets/Background01.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tide/TileSheets/Background01.png" />
+            <file
+                name="data/maps/tide/Map01.tide"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tide/Map01.tide" />
+            <file
+                name="data/maps/tiled-atlas-src/tilesets/tileset1.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-src/tilesets/tileset1.png" />
+            <file
+                name="data/maps/tiled-atlas-src/tilesets/tileset2.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-src/tilesets/tileset2.png" />
+            <file
+                name="data/maps/tiled-atlas-src/test.tmx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-src/test.tmx" />
+            <file
+                name="data/maps/tiled-atlas-processed/tileset/packed.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-processed/tileset/packed.png" />
+            <file
+                name="data/maps/tiled-atlas-processed/tileset/packed.atlas"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-processed/tileset/packed.atlas" />
+            <file
+                name="data/maps/tiled-atlas-processed/test.tmx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled-atlas-processed/test.tmx" />
+            <file
+                name="data/maps/tiled/tiles.tmx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/tiles.tmx" />
+            <file
+                name="data/maps/tiled/hex/hexes.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/hex/hexes.png" />
+            <file
+                name="data/maps/tiled/super-koalio/tileSet.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/super-koalio/tileSet.png" />
+            <file
+                name="data/maps/tiled/super-koalio/level1.tmx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/super-koalio/level1.tmx" />
+            <file
+                name="data/maps/tiled/super-koalio/koalio.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/super-koalio/koalio.png" />
+            <file
+                name="data/maps/tiled/isometric_grass_and_water.tmx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/isometric_grass_and_water.tmx" />
+            <file
+                name="data/maps/tiled/isometric_grass_and_water.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/isometric_grass_and_water.png" />
+            <file
+                name="data/maps/tiled/tiles.tsx"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/tiles.tsx" />
+            <file
+                name="data/maps/tiled/tiles.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/maps/tiled/tiles.png" />
+            <file
+                name="data/arial-15_00.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/arial-15_00.png" />
+            <file
+                name="data/ps-bobargb8888-32x32.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/ps-bobargb8888-32x32.png" />
+            <file
+                name="data/tree.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/tree.png" />
+            <file
+                name="data/sys.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/sys.png" />
+            <file
+                name="data/t8890.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/data/t8890.png" />
+            <file
+                name="sounds/music.mp3"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/sounds/music.mp3" />
+            <file
+                name="sounds/8.12.mp3"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/sounds/8.12.mp3" />
+            <file
+                name="sounds/win.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/sounds/win.wav" />
+            <file
+                name="sounds/failure.wav"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/sounds/failure.wav" />
+            <file
+                name="texture/logo/libgdx.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/logo/libgdx.png" />
+            <file
+                name="texture/background/planet.jpg"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/background/planet.jpg" />
+            <file
+                name="texture/background/menu.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/background/menu.png" />
+            <file
+                name="texture/background/game.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/background/game.png" />
+            <file
+                name="texture/background/dialog.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/background/dialog.png" />
+            <file
+                name="texture/background/splash.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/background/splash.png" />
+            <file
+                name="texture/figure/white.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/white.png" />
+            <file
+                name="texture/figure/board_alpha.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/board_alpha.png" />
+            <file
+                name="texture/figure/life_ko.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/life_ko.png" />
+            <file
+                name="texture/figure/life.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/life.png" />
+            <file
+                name="texture/figure/board.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/board.png" />
+            <file
+                name="texture/figure/black.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/black.png" />
+            <file
+                name="texture/figure/arrow.png"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/assets/texture/figure/arrow.png" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/src/release/assets" />
+    </dataSet>
+
+</merger>

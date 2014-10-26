@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res" >
+            <file
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >tres.en.raya
+                </string>
+            </file>
+            <file
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="GdxTheme"
+                    parent="android:Theme" >
+                    <item name="android:windowBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:colorBackgroundCacheHint">
+@null
+                    </item>
+                    <item name="android:windowAnimationStyle">
+@android:style/Animation
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowFullscreen">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+        </source>
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/generated/res/rs/release" />
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/toni/almacen-ssd/dev/android/projects/g3il/android/src/release/res" />
+    </dataSet>
+
+</merger>
